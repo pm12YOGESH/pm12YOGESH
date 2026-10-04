@@ -1,72 +1,83 @@
-# Hi there, I'm Yogesh P M 👋
+<h1 align="center">Hi, I'm Yogesh P.M 👋</h1>
 
-Results-driven **Manufacturing & Operations Leader** with **18+ years of experience** spanning greenfield/brownfield plant commissioning, surface treatment, fabrication, Lean Six Sigma deployment, and data-driven manufacturing decision systems.
+<p align="center">
+  <b>Statistical Engineer | Power BI & Tableau Developer | Industrial Engineering | HR & Data Analytics</b><br/>
+  BE (Industrial & Production Engineering) · MBA (Human Resource)
+</p>
 
-- 🏭 **Current Role:** Manager – Manufacturing & Powder Coating Plant Manager at **Sobha Limited (SGML)**
-- 🎓 **Education:** B.E. in Industrial & Production Engineering | MBA (IGNOU)
-- 📜 **Certifications:** PMP® Certified | Lean Six Sigma Green Belt | Lead Auditor ISO 9001:2015
-- 📍 **Location:** Bengaluru, Karnataka, India
-- 🛠️ **Core Focus:** Operational Excellence, Plant Layout Design, OEE Optimization, ISO/EHS Compliance, and Manufacturing Analytics
-
----
-
-### 📊 Professional Snapshot  
-  Plant Setup & Commissioning   [████████████████████] 95%
-  Lean Six Sigma & OEE          [████████████████████] 95%
-  ISO & Regulatory Compliance   [██████████████████  ] 90%
-  Data Analytics (Power BI/SQL) [████████████████    ] 85%
-  Quality & Core Tools (APQP)   [██████████████████  ] 90%
-  --
-
-### 🛠️ Tech Stack & Domain Expertise
-
-#### 🏭 Manufacturing & Industrial Engineering
-`Greenfield Setup` `Brownfield Expansion` `Powder Coating` `Aluminium Pretreatment` `MIG/TIG/SAW/SMAW Welding` `CNC Machining` `ETP Operations` `VSM` `SMED` `Line Balancing` `OEE Optimization` `5S/6S` `TPM`
-
-#### 📊 Data Analytics & Business Intelligence
-`Power BI` `Tableau` `Advanced Excel` `Python` `R` `SQL` `Minitab` `KPI Dashboards` `Costing Models`
-
-#### 📜 Quality & Regulatory Compliance
-`ISO 9001:2015` `ISO 14001` `ISO 45001` `IATF 16949` `PFMEA` `SPC` `8D / RCA` `CAPA` `PPAP / APQP` `MSA` `KSPCB` `KIADB` `Dept of Factories & Boilers`
-
-#### 💻 CAD & Project Management
-`AutoCAD` `CATIA` `Siemens NX` `SAP/ERP` `MS Project` `MS Visio` `PMP Framework`
+<p align="center">
+  <a href="https://www.linkedin.com/in/yogesh-pm"><img src="https://img.shields.io/badge/LinkedIn-yogesh--pm-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/pm12YOGESH"><img src="https://img.shields.io/badge/GitHub-pm12YOGESH-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
 
 ---
 
-### 📈 Career Highlights & Metrics
+## 🧑‍💼 About Me
 
-- 🚀 **+20% Production Capacity:** Achieved through line balancing, layout redesign, and productivity enhancement.
-- 🏭 **300 Tons/Month:** Managed end-to-end multi-site operations (Bengaluru, Chennai, Gurgaon) covering fabrication and surface treatment.
-- 📉 **Lead Time Reduction:** Streamlined supplier inventory lead times for aluminium coating materials via VSM.
-- 💰 **Costing Frameworks:** Built custom cost-monitoring tools tracking powder, power, manpower, and maintenance expenses with interactive KPI dashboards.
+I'm a data-driven engineer who turns raw data into actionable insights. With 15+ years at **Sobha Ltd. (Glazing & Metal Works)**, I design and deliver dashboards and statistical analyses that help leadership make faster, better decisions across pan-India projects and plant operations.
+
+I'm looking for opportunities to apply my expertise in data visualization and analytics to improve business outcomes.
+
+## 💼 Current Role
+
+**Assistant Manager – Industrial Engineering, Statistics & MR**
+Sobha Ltd., Glazing & Metal Works (Bangalore, Chennai & Delhi) · *03/2008 – Present* · Reporting to CEO
+
+- Analyze, evaluate and visualize data for decision-making across pan-India projects and plant process improvement
+- Run HR analytics and cost-reduction analysis on monthly data across procurement, inbound logistics, production, inventory & demand planning, and outbound logistics
+- Build and maintain interactive **Power BI** and **Tableau** dashboards for executive decision-makers
+- Create calculated fields, measures and KPIs to improve dashboard interactivity and usability
+- Manage data integration and ETL to keep reports accurate and consistent; work with DBAs to optimize query performance
+- Train end-users to enable self-service reporting and data exploration
+
+### 🎯 Key Results
+| Initiative | Target |
+|---|---|
+| Powder-coating material supply chain | Zero delay, **8% cost reduction** |
+| Process-time standardization (running, repeater & stranger products) | **10% lower throughput time** |
+
+## 🛠️ Skills & Tools
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL_(basic)-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+- **Data Visualization:** Power BI, Tableau
+- **Analytics:** HR Analytics, Data Analytics, Statistical Analysis, ETL
+- **Programming:** Python, R, SQL (basic)
+- **Process Excellence:** Six Sigma, Work Study, Work Measurement, PFAM, Spaghetti Diagram, PCT, TOS, HOS, MTTA, VA/NVA, SWCS
+- **Management:** PMP, Project Management
+
+## 📜 Certifications
+
+- Six Sigma Green Belt
+- PMP – Project Management
+- Cloud Computing & Big Data
+- HR Analytics
+- Power BI
+- Tableau
+
+## 🎓 Education
+
+- **MBA – Human Resource**, Indira Gandhi National Open University (2018–2020)
+- **B.E. – Industrial & Production Engineering**, P.E.S. College of Engineering, Mandya (1998–2001) · 79%
+
+## 🌐 Languages
+
+Kannada · Hindi · English (fluent)
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pm12YOGESH&show_icons=true&theme=default" alt="GitHub stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pm12YOGESH&layout=compact" alt="Top languages" height="160"/>
+</p>
+
+## 📫 Let's Connect
+
+Open to conversations on data visualization, analytics, and process improvement. Reach me on [LinkedIn](https://www.linkedin.com/in/yogesh-pm).
 
 ---
-
-### 💼 Work Experience
-
-#### **Manager – Manufacturing (Plant Manager)**
-*Sobha Limited — Division: Glazing & Metal Works (SGML), Bengaluru* | **Mar 2008 – Present**
-- Led multi-location manufacturing operations covering fabrication, welding, CNC machining, extrusion, surface treatment, and powder coating.
-- Handled complete plant commissioning lifecycles: process layout design, equipment selection, installation, vendor development, and production ramp-up.
-- Facilitated ISO 9001, 14001, and 45001 audits; ensured structural compliance against AWS D1.1, AWS D1.6, ASME codes, and IATF 16949 guidelines.
-- Executed statutory liaison with KSPCB, KIADB, and the Department of Factories & Boilers.
-
-#### **Production In-charge**
-*Sri Fabricators, Bengaluru* | **Apr 2006 – Feb 2008**
-- Managed turnkey fabrication, welding (MIG/TIG), powder coating, and shot blasting for automotive chassis and heavy equipment.
-
-#### **Assistant Production Engineer**
-*Myso Tech Industries, Bengaluru* | **Jul 2004 – Mar 2006**
-- Managed electrical assembly lines focusing on throughput rate, manpower loading, and quality output.
-
-#### **Graduate Apprentice Engineer**
-*Bharat Earth Movers Limited (BEML)* | **Oct 2002 – Jul 2003**
-
----
-
-### 📫 Get in Touch
-
-- 💼 **LinkedIn:** [linkedin.com/in/yogesh-pm](https://linkedin.com/in/yogesh-pm)
-- 📧 **Email:** [yogesh.pm12@gmail.com](mailto:yogesh.pm12@gmail.com)
-- 📱 **Phone:** +91-9986500952
+<p align="center"><i>Result-oriented · Good planning, execution & coordination · Always learning</i></p>
