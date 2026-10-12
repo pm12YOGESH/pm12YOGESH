@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Statistical Engineer → Aspiring Data Scientist</b><br/>
-  Python · R · SQL · Power BI · Tableau · Lean Six Sigma · PMP<br/>
+  JAVA · Python · R · SQL · Power BI · Tableau · Lean Six Sigma · PMP<br/>
   BE (Industrial & Production Engineering) · MBA (Human Resource)
 </p>
 
@@ -16,12 +16,11 @@
 
 ## 🧑‍💼 About Me
 
-I'm a statistical engineer with 15+ years of hands-on experience at **Sobha Ltd. (Glazing & Metal Works)**, turning plant and supply-chain data into decisions. I'm now moving into **data science**, combining my statistics and process-improvement background with Python, R and machine learning to drive organizational growth and keep up with emerging trends.
+I'm a statistical engineer with 15+ years of hands-on experience. I'm now moving into **data science**, combining my statistics and process-improvement background with Java, Python, R and machine learning to drive organizational growth and keep up with emerging trends.
 
 ## 💼 Experience
 
-**Assistant Manager – Industrial Engineering, Statistics & MR**
-Sobha Ltd., Glazing & Metal Works (Bangalore, Chennai & Delhi) · *03/2008 – Present* · Reporting to CEO
+**Manager – Industrial Engineering, Statistics & MR**
 
 - Analyze and visualize data to drive project and plant process improvement
 - Run HR analytics and cost-reduction analysis across procurement, inbound logistics, production, inventory & demand planning, and outbound logistics
